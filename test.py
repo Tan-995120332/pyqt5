@@ -7,4 +7,4 @@ Datetime : 2018/6/2 0:43
 Filename : test.py
 '''
 
-print("test")
+print("test hello world")
